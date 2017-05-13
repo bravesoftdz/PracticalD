@@ -10,6 +10,6 @@ Key ideas:
 * GoLang can load a durodbms/duro DLL into it, theoretically.. Figure out ways to make golang communicate with DuroDBMS
 * DuroDBMS/TutorialD could also use sqlite optionally, as a storage mechanism instead of the Berkley database, in order to make it easier to deploy durodbms without installing Berkley database.  Truly relational databases do not require rewriting your own full DB and can make use of existing databases, but some people will want to roll their own without reusing existing technology
 * todo: try making durodbms dll or IPC system that can be loaded into: golang, rust, fpc, delphi, nimrod, python to talk to durodbms from multiple languages/exe's/elf's
-* make a demo game that tracks an airplane shooting down objects in the video game and store its bomb/kill count in a truly relational db :-)
+* make a demo game that tracks an airplane shooting down objects in the video game and store its bomb/kill count along with all the important statistics/data about what was bombed (building addresses, etc.) in a truly relational db :-)
 
 At the moment this github page is just a start of ideas, when I get time to experiment with some code it will be uploaded to this project page.  Right now working on IPC and other areas of work, which, ironically relates to the practicald ideas anyway
