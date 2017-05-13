@@ -12,3 +12,4 @@ Key ideas:
 * todo: try making durodbms dll or IPC system that can be loaded into: golang, rust, fpc, delphi, nimrod, python to talk to durodbms from multiple languages/exe's/elf's
 * make a demo game that tracks an airplane shooting down objects in the video game and store its bomb/kill count in a truly relational db :-)
 
+At the moment this github page is just a start of ideas, when I get time to experiment with some code it will be uploaded to this project page.  Right now working on IPC and other areas of work, which, ironically relates to the practicald ideas anyway
