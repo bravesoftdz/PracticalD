@@ -14,3 +14,8 @@ Key ideas:
 * TutorialD language syntax: the language is a bit heavy to use. Figure out ways to make the language lighter on the hands possibly and more precise than its current verbose state? This needs to be looked into, as one reason people use OOP (object orientation) is for easy access to data with dot notation (i.e. Ruby) without having a huge heavy language just to do simple things. SQL already suffers from being a bit heavy, and TutorialD also does, although it has made some improvements on some areas such as not requiring SELECT keyword
 
 At the moment this github page is just a start of ideas, when I get time to experiment with some code it will be uploaded to this project page.  Right now working on IPC and other areas of work, which, ironically relates to the practicald ideas anyway
+
+Links to current TutorialD projects that already exist:
+* Rel Project: https://github.com/DaveVoorhis/Rel  
+* DuroDBMS: https://github.com/rehartmann/durodbms
+* there are more, but these above ones are really interesting IMO
