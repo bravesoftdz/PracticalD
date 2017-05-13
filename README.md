@@ -4,7 +4,7 @@ TutorialD is a relational database language that supersedes SQL
 This github page is for ideas, and when time permits, code, to implement practical implementations of TutorialD
 
 Key ideas:
-* DuroDBMS already exists. Simple turn it into a DLL to load into other languages, not just TCL/TK
+* DuroDBMS already exists. Simply turn it into a DLL to load into other languages, not just TCL/TK
 * or if not a DLL, then use SimpleIPC to communicate with DuroDBMS and send strings to it and other commands. If not using SimpleIPC then use other IPC mechanisms (inter process communication)
 * Rel project exists too but is written in Java. Probably better to use DuroDBMS codebase as it is reusable C code that can be statitically or dynamically linked into other languages and programs
 * GoLang can load a durodbms/duro DLL into it, theoretically.. Figure out ways to make golang communicate with DuroDBMS
